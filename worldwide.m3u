@@ -9,7 +9,6 @@ https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,q_auto:low/e_brightness:10/https://origin-staticv2.sonyliv.com/masthead_logo/SETHD1_Masthead_logo.png"  group-title="BDCABLE-TV",SONY HD (IN)
 http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
 
-
 #EXTINF:-1 tvg-id="SURYA CINEMA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png"  group-title="OUT-TV",SURYA CINEMA (IN)
 https://pull-2742.5centscdn.com/abrout/suryacinema/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png"  group-title="OUT-TV",ZEE TV HD (US)
