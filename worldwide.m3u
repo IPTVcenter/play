@@ -689,8 +689,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-logo=" "  group-title="MX-TV",MOVIE PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
-#EXTINF:-1 tvg-id="DISHUM (IN)" tvg-logo=" "  group-title="MX-TV",DISHUM (UK)
-https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
+#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+
+
 #EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-logo=" "   group-title="MX-TV",DD NATIONAL (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 #EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-logo=" "  group-title="MX-TV",ANJAN TV (IN)
@@ -727,7 +728,6 @@ https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
 https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in.m3u8
 #EXTINF:-1 tvg-id="IBC 24 (IN)" tvg-logo=" "  group-title="MX-TV",IBC 24 (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
-#EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-logo=" "  group-title="MX
 #EXTINF:-1 tvg-id="CVR NEWS (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/CVR_English.jpg"  group-title="MX-TV",CVR NEWS (IN)
 https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 #EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-logo=" "  group-title="MX-TV",SADHNA PLUS (IN)
@@ -768,36 +768,64 @@ https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8
 #EXTINF:-1 tvg-id="THE Q (IN)" tvg-logo="http://static1.squarespace.com/static/5fe0d350f8f3ea3e5d5f5eac/t/5fe7bf5fba5cdf3765913dbb/1610393266307/TheQ_Logo2.png"  group-title="MX-TV",THE Q (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8
-#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+#EXTINF:-1 tvg-id="SUPER TV (IN)" tvg-logo=" "  group-title="MX-TV",SUPER TV (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8076.SuperTv.in.m3u8
-#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+#EXTINF:-1 tvg-id="TIMES NOW NAVBHARAT (IN)" tvg-logo=" "  group-title="MX-TV",TIMES NOW NAVBHARAT (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/8075.timesnownavbharat.in.m3u8
-#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+#EXTINF:-1 tvg-id="UPDATE INFIA (IN)" tvg-logo=" "  group-title="MX-TV",UPDATE INDIA (IN)
 https://m-c09-j2apps.s.llnwi.net/hls/8067.UpdateIndia.in.m3u8
+#EXTINF:-1 tvg-id="WONDER (IN)" tvg-logo=" "  group-title="MX-TV",WONDER (IN)
 https://m-c09-j2apps.s.llnwi.net/hls/8084.Wonder.in.m3u8
+#EXTINF:-1 tvg-id="REAL STORIES (IN)" tvg-logo=" "  group-title="MX-TV",REAL STROIES (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8081.RealStories.in.m3u8
+#EXTINF:-1 tvg-id="TIME LINE (IN)" tvg-logo=" "  group-title="MX-TV",TIME LINE (IN)
 https://m-c28-j2apps.s.llnwi.net/hls/8083.Timeline.in.m3u8
+#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+
+
+#EXTINF:-1 tvg-id="DEVAM TV (IN)" tvg-logo=" "  group-title="MX-TV",DEVAM TV (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8065.DevamTV.in.m3u8
+#EXTINF:-1 tvg-id="NDTV GOOD TIMES (IN)" tvg-logo=" "  group-title="MX-TV",NDTV GOOD TIMES (IN)
 https://m-c049-j2apps.s.llnwi.net/hls/8059.NDTVGoodTimes.in.m3u8
+#EXTINF:-1 tvg-id="DD ARUNPRABHA (IN)" tvg-logo=" "  group-title="MX-TV",DD ARUNPRABHA (IN)
 https://m-c037-j2apps.s.llnwi.net/hls/8059.DArunprabha.in.m3u8
+#EXTINF:-1 tvg-id="GREEN CHILLIES (IN)" tvg-logo=" "  group-title="MX-TV",GREEN CHILLIES (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/8054.GreenChillies.in.m3u8
+#EXTINF:-1 tvg-id="DD URDU (IN)" tvg-logo=" "  group-title="MX-TV",DD URDU (IN)
 https://m-c037-j2apps.s.llnwi.net/hls/8058.DDUrdu.in.m3u8
+#EXTINF:-1 tvg-id="FASHION TV (IN)" tvg-logo=" "  group-title="MX-TV",FASHION TV (IN)
 https://m-c037-j2apps.s.llnwi.net/hls/8069.FashionTVMumbai.in.m3u8
+#EXTINF:-1 tvg-id="SHARNAM TV (IN)" tvg-logo=" "  group-title="MX-TV",SHARNAM TV (IN)
 https://m-c049-j2apps.s.llnwi.net/hls/8052.SharnamTV.in.m3u8
+#EXTINF:-1 tvg-id="SANSKRITI 24X7 (IN)" tvg-logo=" "  group-title="MX-TV",SANSKROTI 24X7 (IN)
 https://m-c06-j2apps.s.llnwi.net/hls/8051.Sanskriti24X7.in.m3u8
+#EXTINF:-1 tvg-id="ANAADI TV (IN)" tvg-logo=" "  group-title="MX-TV",ANAADI TV (IN)
 https://m-c28-j2apps.s.llnwi.net/hls/8045.AnaadiTV.in.m3u8
+#EXTINF:-1 tvg-id="HIFF MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",HIFF MOVIES (IN)
 https://m-c28-j2apps.s.llnwi.net/hls/8044.HiffMovies.in.m3u8
+#EXTINF:-1 tvg-id="SS TV (IN)" tvg-logo=" "  group-title="MX-TV",SS TV (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/8039.SSTV.in.m3u8
+#EXTINF:-1 tvg-id="PRIME TV (IN)" tvg-logo=" "  group-title="MX-TV",PRIME TV (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/8040.PrimeTV.in.m3u8
+#EXTINF:-1 tvg-id="PT NEWS (IN)" tvg-logo=" "  group-title="MX-TV",PT NEWS (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/8036.PTNews.in.m3u8
+#EXTINF:-1 tvg-id="HARYANA TASHAN ENT. (IN)" tvg-logo=" "  group-title="MX-TV",HARYANA TASHAN ENT. (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/8033.HaryanaTashanEnt.in.m3u8
+#EXTINF:-1 tvg-id="INSIGHT TV (IN)" tvg-logo=" "  group-title="MX-TV",INSIGHT TV (IN)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-mxplayer/playlist.m3u8?app_bundle=com.innovation.mxplayer_8064.InsightTV.in&app_name=MXPlayer&app_store_url=https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&genre=GD&coppa=Kids&iab=IAB1-7
+#EXTINF:-1 tvg-id="VEDANT TV (IN)" tvg-logo=" "  group-title="MX-TV",VEDANT TV (IN)
 https://m-c05-j2apps.s.llnwi.net/hls/8031.VedantTV.in.m3u8
+#EXTINF:-1 tvg-id="JANTANTRA TV (IN)" tvg-logo=" "  group-title="MX-TV",JANTANTRA TV (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8028.JantantraTV.in.m3u8
+#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-logo=" "  group-title="MX-TV",INDIA TV (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
+#EXTINF:-1 tvg-id="LOVE WORLD INDIA (IN)" tvg-logo=" "  group-title="MX-TV",LOVE WORLD INDIA (IN)
 https://m-c09-j2apps.s.llnwi.net/hls/8024.LoveworldIndia.in.m3u8
+#EXTINF:-1 tvg-id="AANN NEWS (IN)" tvg-logo=" "  group-title="MX-TV",AANN NEWS (IN)
 https://m-c07-j2apps.s.llnwi.net/hls/8023.AANNNews.in.m3u8
+#EXTINF:-1 tvg-id="VIP NEWS (IN)" tvg-logo=" "  group-title="MX-TV",VIP NEWS (IN)
 https://m-c07-j2apps.s.llnwi.net/hls/8022.VipNews.in.m3u8
+#EXTINF:-1 tvg-id="PEACE MUSIC (IN)" tvg-logo=" "  group-title="MX-TV",PEACE MUSIC (IN)
 https://m-c28-j2apps.s.llnwi.net/hls/8019.PeaceMusic.in.m3u8
 
 
