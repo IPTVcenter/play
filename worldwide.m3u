@@ -369,8 +369,6 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 tvg-id="CITY NEWS HD" tvg-logo=" "  group-title="ONLINE-TV",CITY NEWS HD (PK)
 http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.axn.co.ao/sites/all/themes/responsive/responsive_sony_axn/logo.png"   group-title="ONLINE-TV",AXN (TW)
-http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/413px-Cinemax_2016.svg.png"  group-title="ONLINE-TV",CINEMAX (TW)
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2018/01/hbo_logo-590x332.jpg"  group-title="ONLINE-TV",HBO (TW)
@@ -521,8 +519,6 @@ http://play.iptvxxx.net/gay.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PARLIAMENT TV (NZ)" tvg-logo=" "  group-title="NET-TV",PARLIAMENT TV (NZ)
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="MBC BOLLYWOOD HD (ME)" tvg-logo=" "   group-title="NET-TV",MBC BOLLYWOOD HD (ME)
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="SAAZO AWAZ" tvg-logo=" "   group-title="NET-TV",SAAZO AWAZ (PK)
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
 #EXTINF:-1 tvg-id="CARE WORLD" tvg-logo="http://www.careworldtv.com/wp-content/themes/ipt_careworld/images/logo.jpg"   group-title="NET-TV",CARE WORLD (IN)
