@@ -230,7 +230,7 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonymax2_Masthead_Logo.png"  group-title="SONYLIV",SONY MAX 2 (IN)
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 tvg-id="SONY WAH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/S
+#EXTINF:-1 tvg-id="SONY WAH" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png"  group-title="SONYLIV",SONY WAH (IN)
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1 tvg-id="DUBAI ONE" tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/brand/dubaione-logo.png"   group-title="MANGOMOLO-TV",DUBAI ONE  (ME)
@@ -276,12 +276,8 @@ http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.sm
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/chunks.m3u8
 #EXTINF:-1 tvg-id="CGTN DOCUMENTARY (CN)" tvg-logo=" "   group-title="ONLINE-TV",CGTN DOCUMENTARY (CN)
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 tvg-id="FREE SPORTS (UK)" tvg-logo=" "  group-title="ONLINE-TV",FREE SPORTS (UK)
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8?Token=
 #EXTINF:-1 tvg-id="SKY NEWS (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png"  group-title="ONLINE-TV",SKY NEWS (UK)
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:-1 tvg-id="PTV HOME (PK)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjzLN_weotMG3yqm0BT2_4c3xBCtkQYnVHchDdhuEweEB8ruqvxzgdEiTEim8X6lpuvdXgRqoPwuFgsTt_5PbFKv_os5RUOv_Ms1y86_WxQnqwWSltT1eS8Rnd79vJcFN-3sj4sC7VKQXMCcMip3n65AhzZNxtjQ3Sf_RbBv7r3FXxwsTgIJLlNB46Nmg=s200"  group-title="ONLINE-TV",PTV HOME (PK)
-https://live.ptv.com.pk/live/stream/ptvhome/chunklist.m3u8
 #EXTINF:-1 tvg-id="UZREPORT WORLD (UZ)" tvg-logo=" "  group-title="ONLINE-TV",UZREPORT WORLD (UZ)
 http://vspnmy3kvpzu7q.data.mediastore.eu-central-1.amazonaws.com/liveHD.m3u8
 #EXTINF:-1 tvg-id="NASA TV (UK)" tvg-logo=" "   group-title="ONLINE-TV",NASA TV (UK)
