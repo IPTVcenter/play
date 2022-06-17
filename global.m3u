@@ -126,6 +126,89 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="XUMO-TV", (US)
 
+	#EXTINF:-1 tvg-id="ATMADARSHAN TV (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Atmadarshan-Tv/60b872e3a609d2ae610000a7/medium_16_9.jpg"   group-title="SHEMAROO-ME",ATMADARSHAN TV (IN)
+https://atmadarshantv.shemaroo.com/hls18/atmadarshan/index.m3u8?hdnts=st=1638878828~exp=1638889628~acl=*~data=testdata~hmac=ed130a58c271450608cb2f1aee12b9a2a14197fdb7ecd4319dc8fc6ce09fb4c2
+#EXTINF:-1 tvg-id="SEVEN WONDERS TV (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Seven-Wonders-TV/5ff2c3daa609d26dec000005/medium_16_9.jpg"   group-title="SHEMAROO-ME",SEVEN WONDERS TV (IN)
+https://shemaroomeseventv.shemaroo.com/sevenwonderstvhls/live.m3u8?hdnts=st=1638877900~exp=1638888700~acl=*~data=testdata~hmac=b71ffc35f894548bba9413e8a0b033339f2c283f1255333cbae72a969d801b2
+#EXTINF:-1 tvg-id="SAMACHAR24 HD (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Samachar-24/610a8ac8a609d20cad000041/medium_16_9.jpg"  group-title="SHEMAROO-ME",SAMACHAR24 HD (IN)
+https://imagetv.shemaroo.com/hls5/samachar24/index.m3u8?hdnts=st=1638746922~exp=1638757722~acl=*~data=testdata~hmac=7186d2e3da527348c45cec266c13da1b572fb2f5fa97670d32d5d4dd22bedbde
+#EXTINF:-1 tvg-id="INDIA NEWS (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/India-News/5eeb6ab9a609d28992000026/xl_image_16_9.jpg"   group-title="SHEMAROO-ME",INDIA NEWS (IN)
+https://shemaroomeitvnews.shemaroo.com/hls/inkhabar.m3u8?hdnts=st=1638877698~exp=1638888498~acl=*~data=testdata~hmac=b3e50a8b278755b77916c4a2d453c57c7906a258fb160e0bf9c3318bd47075e5
+#EXTINF:-1 tvg-id="NEWS X (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/NewsX/5eeb77bfa609d2aeb4000002/xl_image_16_9.jpg"   group-title="SHEMAROO-ME",NEWS X (IN)
+https://shemaroomeitvnews.shemaroo.com/hls/newsx.m3u8?hdnts=st=1638877091~exp=1638887891~acl=*~data=testdata~hmac=2d4e22e7a1a4ddafb5c0e5af24cd622550b6c478c117df67a907240656824dec
+ 
+#EXTINF:-1 tvg-id="TRT WORLD" tvg-logo="http://www.trtworld.com/images/share-1000x500.png"  group-title="WATCHO",TRT WORLD (ASIA)
+https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/653495/assetType/media/assetFileId/6564063/contextType/PLAYBACK/isAltUrl/False/a.m3u8?playSessionId=819b76b3-8e05-6dfb-b353-27a580b92ce3:26e63fb4-bc1e-9c0a-6583-a758a70a1a30&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL3RydHdvcmxkLzY1MzQ5NQ==&clientTag=html5:v7.42
+#EXTINF:-1 tvg-id="THE Q" tvg-logo="http://static1.squarespace.com/static/5fe0d350f8f3ea3e5d5f5eac/t/5fe7bf5fba5cdf3765913dbb/1610393266307/TheQ_Logo2.png"  group-title="WATCHO",THE Q (IN)
+https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/796290/assetType/media/assetFileId/8167711/contextType/PLAYBACK/isAltUrl/False/a.m3u8?playSessionId=9f9aed47-1dd5-aa3a-4540-5ad6b8306b2e:3122a12b-a73a-16a2-fcfa-48dc0cfb4da2&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL3RoZS1xLzc5NjI5MA==&clientTag=html5:v7.42
+#EXTINF:-1 tvg-id="R.BHARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Republic_Bharat_Logo.jpg/800px-Republic_Bharat_Logo.jpg"  group-title="WATCHO",R.BHARAT (IN)
+https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/789609/assetType/media/assetFileId/8030818/contextType/PLAYBACK/isAltUrl/False/ks/djJ8NDg3fIZbQL8RDGvI46D8Be04c3G3Qu5CpWmmVQ-ZXo1MUR7LRhJFAG6vozaM0ge6ZKFAo8-gHmGr02RYu9GpCvAicGvLto51-vNz2E4swWCECj48V3kQKdmDYn0C6oJyc2siTG-7yi99fvCAwm6_OvF5jL62fSP8XSBqHKIHOSqMn0iFsV-uExs1JqrbRXjhiPSpK00rSMQbYulMLJTg8yt2Rp0rkxiSVCjvblTTa-ZRbi3oeLGh1NZOvm6N35WuZae_8sjL2vZPaqdWn6zkK8aHO9QEk4KvA78-qdKIAU02M2KfkzcOi8xDAE6YLMNqBMTo5YJFGTjNOyVrTXDDyMN5yHBjXKSNErK1yq44aDcAU3ExasnFTcirtNkx2X1oQG2rntTDnXwO4DWGy0Tvfd_Cv4wB4aBFagFrecP8eFuniFr3/a.m3u8?e=1651422600&h=ee5dc745cc65ecd58d891bc0eec5a896&playSessionId=866b0c5e-e1a4-16fd-fafc-8840f83d17c4:4f61f804-ea95-1cca-5e02-8f3bb07818e7&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL3JlcHVibGljLWJoYXJhdC83ODk2MDk=&clientTag=html5:v7.42
+#EXTINF:-1 tvg-id="9XM" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"  group-title="WATCHO",9XM (IN)
+https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/816390/assetType/media/assetFileId/15074634/contextType/PLAYBACK/isAltUrl/False/ks/djJ8NDg3fIZbQL8RDGvI46D8Be04c3G3Qu5CpWmmVQ-ZXo1MUR7LRhJFAG6vozaM0ge6ZKFAo8-gHmGr02RYu9GpCvAicGvLto51-vNz2E4swWCECj48V3kQKdmDYn0C6oJyc2siTG-7yi99fvCAwm6_OvF5jL62fSP8XSBqHKIHOSqMn0iFsV-uExs1JqrbRXjhiPSpK00rSMQbYulMLJTg8yt2Rp0rkxiSVCjvblTTa-ZRbi3oeLGh1NZOvm6N35WuZae_8sjL2vZPaqdWn6zkK8aHO9QEk4KvA78-qdKIAU02M2KfkzcOi8xDAE6YLMNqBMTo5YJFGTjNOyVrTXDDyMN5yHBjXKSNErK1yq44aDcAU3ExasnFTcirtNkx2X1oQG2rntTDnXwO4DWGy0Tvfd_Cv4wB4aBFagFrecP8eFuniFr3/a.m3u8?playSessionId=4f053758-ba3c-e466-48d8-b9ce0611a7f0:a18550f6-129a-709c-aa8b-388fb7bdcd47&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsLzl4bS84MTYzOTA=&clientTag=html5:v7.42
+#EXTINF:-1 tvg-id="DD NATIONAL" tvg-logo="https://files.prokerala.com/news/photos/imgs/800/doordarshan-logo-774942.jpg"  group-title="WATCHO",DD NATIONAL (IN)
+https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/934700/assetType/media/assetFileId/15074548/contextType/PLAYBACK/isAltUrl/False/ks/djJ8NDg3fIZbQL8RDGvI46D8Be04c3G3Qu5CpWmmVQ-ZXo1MUR7LRhJFAG6vozaM0ge6ZKFAo8-gHmGr02RYu9GpCvAicGvLto51-vNz2E4swWCECj48V3kQKdmDYn0C6oJyc2siTG-7yi99fvCAwm6_OvF5jL62fSP8XSBqHKIHOSqMn0iFsV-uExs1JqrbRXjhiPSpK00rSMQbYulMLJTg8yt2Rp0rkxiSVCjvblTTa-ZRbi3oeLGh1NZOvm6N35WuZae_8sjL2vZPaqdWn6zkK8aHO9QEk4KvA78-qdKIAU02M2KfkzcOi8xDAE6YLMNqBMTo5YJFGTjNOyVrTXDDyMN5yHBjXKSNErK1yq44aDcAU3ExasnFTcirtNkx2X1oQG2rntTDnXwO4DWGy0Tvfd_Cv4wB4aBFagFrecP8eFuniFr3/a.m3u8?playSessionId=bfbf75f3-c84c-a46f-039e-4d4972cb90f0:2145e922-647a-1cac-f7bd-0c3b3185a7c4&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9
+#EXTINF:-1 tvg-id="DD BHARATI" tvg-logo="https://www.tccl.co.in/img/new_channel_logos/ddbharathi.jpg"  group-title="WATCHO",DD BHARATI (IN)
+https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/934709/assetType/media/assetFileId/15074730/contextType/PLAYBACK/isAltUrl/False/ks/djJ8NDg3fIZbQL8RDGvI46D8Be04c3G3Qu5CpWmmVQ-ZXo1MUR7LRhJFAG6vozaM0ge6ZKFAo8-gHmGr02RYu9GpCvAicGvLto51-vNz2E4swWCECj48V3kQKdmDYn0C6oJyc2siTG-7yi99fvCAwm6_OvF5jL62fSP8XSBqHKIHOSqMn0iFsV-uExs1JqrbRXjhiPSpK00rSMQbYulMLJTg8yt2Rp0rkxiSVCjvblTTa-ZRbi3oeLGh1NZOvm6N35WuZae_8sjL2vZPaqdWn6zkK8aHO9QEk4KvA78-qdKIAU02M2KfkzcOi8xDAE6YLMNqBMTo5YJFGTjNOyVrTXDDyMN5yHBjXKSNErK1yq44aDcAU3ExasnFTcirtNkx2X1oQG2rntTDnXwO4DWGy0Tvfd_Cv4wB4aBFagFrecP8eFuniFr3/a.m3u8?playSessionId=b5bbd90e-7fa2-9388-ede1-f751d5e441d7:08f32f5d-ab32-69cc-1fe6-64ddfb1fb4f0&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL2RkLWJoYXJ0aS85MzQ3MDk=&clientTag=html5:v7.42
+#EXTINF:-1 tvg-id="INDIA NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/India_News.png"  group-title="WATCHO",INDIA NEWS (IN)
+https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/962107/assetType/media/assetFileId/11426111/contextType/PLAYBACK/isAltUrl/False/ks/djJ8NDg3fIZbQL8RDGvI46D8Be04c3G3Qu5CpWmmVQ-ZXo1MUR7LRhJFAG6vozaM0ge6ZKFAo8-gHmGr02RYu9GpCvAicGvLto51-vNz2E4swWCECj48V3kQKdmDYn0C6oJyc2siTG-7yi99fvCAwm6_OvF5jL62fSP8XSBqHKIHOSqMn0iFsV-uExs1JqrbRXjhiPSpK00rSMQbYulMLJTg8yt2Rp0rkxiSVCjvblTTa-ZRbi3oeLGh1NZOvm6N35WuZae_8sjL2vZPaqdWn6zkK8aHO9QEk4KvA78-qdKIAU02M2KfkzcOi8xDAE6YLMNqBMTo5YJFGTjNOyVrTXDDyMN5yHBjXKSNErK1yq44aDcAU3ExasnFTcirtNkx2X1oQG2rntTDnXwO4DWGy0Tvfd_Cv4wB4aBFagFrecP8eFuniFr3/a.m3u8?playSessionId=a6553204-9111-e062-e5e0-721900b69351:3a976b96-0c93-0cab-3d4c-f6d61c37f868&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL2luZGlhLW5ld3MtbmF0aW9uYWwvOTYyMTA3&clientTag=html5:v7.42
+#EXTINF:-1 tvg-id="REPUBLIC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Republic_TV.png"   group-title="WATCHO",REPUBLIC TV (IN)
+https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/789812/assetType/media/assetFileId/8035286/contextType/PLAYBACK/isAltUrl/False/a.m3u8?e=1651422600&h=0377efdf10569c58e8a45457270b3cfc&playSessionId=41b27a38-7e0d-856d-45ab-574c2db992e1:08d10ccd-0bfa-a3b0-aecb-f6e764ab0092&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL3JlcHVibGljLXR2Lzc4OTgxMg==&clientTag=html5:v7.42
+
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gXP7mJt1.png" group-title="SONYLIV",Sony PIX HD (IN)
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SONYLIV",SONY TEN1 HD (IN)
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SONYLIV",SONY TEN 2 HD (IN)
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="SONYLIV",SONY TEN 2 (IN)
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SONYLIV",SONY TEN 3 HD (IN)
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png"  group-title="SONYLIV",SONY TEN 3 (IN)
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-id="SONY SIX HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SONYLIV",Sony SIX HD (IN)
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-id="SONY SIX" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SONYLIV",SONY SIX (IN)
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="SONYLIV",SONY HD (IN)
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="SONYLIV",SONY SAB HD (IN) 
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-id="SONY PAL" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="SONYLIV",SONY PAL (IN)
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 ch-id="SONY YAY" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png"  group-title="SONYLIV",SONY YAY (IN)
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Lad3I4Yq.png"  group-title="SONYLIV",SONY MAX HD (IN)
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png"  group-title="SONYLIV",SONY MAX (IN)
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonymax2_Masthead_Logo.png"  group-title="SONYLIV",SONY MAX 2 (IN)
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-id="SONY WAH" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png"  group-title="SONYLIV",SONY WAH (IN)
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+ 
+#EXTINF:-1 tvg-id="DUBAI ONE" tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/brand/dubaione-logo.png"   group-title="MANGOMOLO-TV",DUBAI ONE  (ME)
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://media.glassdoor.com/sqll/1054262/runnings-squarelogo-1637059179183.png"  group-title="MANGOMOLO-TV",RTV (ME)
+http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ABC 7" tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/wabc/images/logos/default_800x450.jpg"  group-title="SYNCBAK-TV",ABC 7 (US)
+http://prod2-dai2-playlistserver.aws.syncbak.com/playlist/17716049/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxNzcxNjA0OSIsIm1kNSI6IjVlYTdlY2VhNmEyNGZhZTI3MzI0Y2NmYjU3MmIxMGIzIiwiaWF0IjoxNTY5MzQxMjc2LCJpc3MiOiJTeW5jYmFrIChURykifQ.Wa-2nheneuWFxJ0kzCgGP7WDNzGGN7EOMIVWQWULeNM
+#EXTINF:-1 tvg-id="CBS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/CBS_7_Logo_3D.png/1200px-CBS_7_Logo_3D.png"  group-title="SYNCBAK-TV",CBS 7 (US)
+http://dai2-playlistserver.aws.syncbak.com/playlist/13736492/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNzM2NDkyLCJtZDUiOiI0MmE1YjYzOTE1NmY3MDc1ODhiMjI5MzU4Y2QxYzMxNSIsImlhdCI6MTUwNDcyNzU3MCwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.UfPIgsOM95dpS9ylf6OThcwAqqq5UDgYlq8J31DVq2Y
+#EXTINF:-1 tvg-id="ABC 9" tvg-logo="https://pbs.twimg.com/profile_images/712268646173777920/ChN0FsPt_400x400.jpg"  group-title="SYNCBAK-TV",ABC 9 (US)
+http://dai2-playlistserver.aws.syncbak.com/playlist/13457161/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE4MDIxMDQ5MzUsImlzcyI6IldMUyIsIm1kNSI6ImUyYmMxZmJiZTBhODk3MTFiYWY0ZTFhZmNkNGJjYzI1IiwibWlkIjoiMTM0NTcxNjEifQ.THRv2lITl_tb4SeyFerusnIZisV7IFLNIlyO28aY6AM
+ 
+#EXTINF:-1 tvg-id="ASSAM TALKS" tvg-logo="http://as.assamtalks.com/wp-content/uploads/2018/08/AssamTalks_logo.png" group-title="V-PRISM",ASSAM TALKS (IN)
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV 9 BHARAT" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ls96LvtR.png"  group-title="V-PRISM",TV 9 BHARAT (IN)
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="NEWS 24" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wmsT3xGI.png"  group-title="V-PRISM",NEWS 24 (IN)
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="KHABRAIN ABHI TAK" tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg"  group-title="V-PRISM",KHABRAIN ABHI TAK (IN)
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
 
 
 
