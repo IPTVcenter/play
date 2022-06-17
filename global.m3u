@@ -1,0 +1,142 @@
+#EXTM3U TV
+#EXTINF:-1 tvg-id="EURO NEWS" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Euronews_%282016-.n.v.%29.png"  group-title="ROKU-TV",EURO NEWS (UK)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AFV!" tvg-logo="https://i.imgur.com/lG3OHxA.png"  group-title="ROKU-TV",AFV! (UK)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="BLOOMBERG QUICKTAKE" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-news/Bloomberg_Quicktake_190x190.png"  group-title="ROKU-TV",BLOOMBERG QUICKTAKE (UK)
+https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,q_auto:low/e_brightness:10/https://origin-staticv2.sonyliv.com/masthead_logo/SETHD1_Masthead_logo.png"  group-title="BDCABLE-TV",SONY HD (IN)
+http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
+ 
+#EXTINF:-1 tvg-id="TEHELKA TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tehelka-tv-in.png"  group-title="JAGOBD",TEHELKA TV (IN)
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="SAMSUNG-TV",CNN (US)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BLOOMBERG" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg"  group-title="SAMSUNG-TV",BLOOMBERG (US)
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FTF" tvg-logo="https://snagfilms-a.akamaihd.net/0000014c-edbe-da12-a1fc-fdbe2f120000/images/93/ff/899ed7604901807d3824d4a9abca/1571847365901_ftf_transparentimages-tab.png"   group-title="SAMSUNG-TV",FTF (US)
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FAILARMY" tvg-logo="https://i.imgur.com/nbzbHum.png"  group-title="SAMSUNG-TV",FAILARMY (US)
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DUCK TV" tvg-logo="https://www.nicepng.com/png/detail/321-3214135_duck-tv-logo-png.png"  group-title="SAMSUNG-TV",DUCK TV (US)
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CRIME 360" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/aae88f63ba55546da394e8912c72efc6/images/titan/assets/aHR0cHM6Ly9ka2kwMXExbDd5bjN5LmNsb3VkZnJvbnQubmV0L3RodW1ibmFpbHMtcGxhdGZvcm0tcHJvZC9hc3NldHMvY3M6OmNvbnRlbnQ6OmNoYW5uZWxzLzAtMjA0OC9DcmltZS0zNjAtZGVmYXVsdF92MS5wbmc.png"  group-title="SAMSUNG-TV",CRIME 360 (US)
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TRAVEL XP" tvg-logo="https://travelxptv.b-cdn.net/wp-content/uploads/2016/12/travelxp-crystal-logo.png"  group-title="SAMSUNG-TV",TRAVEL XP (NL)
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IBC 24" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png"  group-title="MULTI-TV",IBC 24 (IN)
+https://idvd.multitvsolution.com:443/idvo/ibc24.m3u8
+#EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png"   group-title="MULTI-TV",DANGAL (IN)
+https://itvoign.multitvsolution.com/idvo/dangal.m3u8
+#EXTINF:-1 tvg-id="INDIA NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/India_News.png"   group-title="MULTI-TV",INDIA NEWS (IN)
+https://itvoign.multitvsolution.com/hls/inkhabar.m3u8
+#EXTINF:-1 tvg-id="NEWS X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NewsX_Logo.png/320px-NewsX_Logo.png"   group-title="MULTI-TV",NEWS X (IN)
+https://itvoign.multitvsolution.com/hls/newsx.m3u8
+#EXTINF:-1 tvg-id="B4U KADAK" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zdkmQbLP.png"  group-title="MULTI-TV",B4U KADAK (IN)
+https://itvoign.multitvsolution.com/idvo/moviehouse.m3u8
+#EXTINF:-1 tvg-id="WOW CINEMA ONE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cC7fnk8i.png"   group-title="MULTI-TV",WOW CINEMA ONE (IN)
+https://itvoign.multitvsolution.com/idvo/wowcinema.m3u8
+#EXTINF:-1 tvg-id="DD ASSAM" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zjXFFpZp.png"     group-title="MULTI-TV",DD ASSAM (IN)
+https://itvoign.multitvsolution.com/idvo/ddnortheast.m3u8
+#EXTINF:-1 tvg-id="BIXFLIX MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OzLvAT5S.png"  group-title="MULTI-TV",BIXFLIX MOVIES (IN)
+https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
+#EXTINF:-1 tvg-id="MAHA MOVIE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dgk8ZJp1.png"   group-title="MULTI-TV",MAHA MOVIE (IN)
+https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
+#EXTINF:-1 tvg-id="DANGAL 2" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/893ccLnZ.png" group-title="MULTI-TV",DANGAL 2 (IN)
+https://itvoign.multitvsolution.com/idvo/enterr10movies.m3u8
+
+#EXTINF:-1 tvg-id="MMA JUNKIE"  tvg-logo="https://a.jsrdn.com/hls/22814/mma-junkie/logo_20200521_193041.png"  group-title="DISTRO-TV",MMA JUNKIE (US)
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+#EXTINF:-1 tvg-id="REELZ" tvg-logo="https://s13686.pcdn.co/wp-content/themes/reelz2/assets/images/reelz-header-logo-7780989e3b.png"    group-title="DISTRO-TV",REELZ (US)
+https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
+#EXTINF:-1 tvg-id="SPORTSKOOL TV" tvg-logo="https://www.sportskool.com/site_images/logo_sportskool.png"  group-title="DISTRO-TV",SPORTSKOOL TV (US)
+https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
+#EXTINF:-1 tvg-id="THE TITANIC CHANNEL" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png"  group-title="DISTRO-TV",THE TITANIC CHANNEL (US)
+https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/c.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
