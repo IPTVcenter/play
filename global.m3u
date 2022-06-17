@@ -293,13 +293,107 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-id="CITY NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/City_News_HD_Logo.png"  group-title="ONLINE-TV",CITY NEWS HD (PK)
 http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/chunklist.m3u8
 
+
 #EXTINF:-1 tvg-id="DD VYAS (IN)" tvg-logo="https://webcast.gov.in/images/nic_logo_full.gif"  group-title="MEDIA-TV",DD VYAS (IN)
 https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="SANSAD TV HD (IN)" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2021/10/Eng-Logo-1.png"  group-title="MEDIA-TV",SANSAD TV HD (IN)
 https://playhls.media.nic.in/live/rstv/index.m3u8
 
 
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/413px-Cinemax_2016.svg.png"  group-title="IP",CINEMAX (TW)
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2018/01/hbo_logo-590x332.jpg"  group-title="IP",HBO (TW)
+http://ip2121.com:8081/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC NEWS" tvg-logo="https://www.brainomix.com/media/j1lniei2/bbc-news_preview.png"  group-title="IP,BBC NEWS (TW)
+http://ip2121.com:8081/live/bbc/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png"  group-title="IP",CNN (TW)
+http://ip2121.com:8081/live/cnn/playlist.m3u8
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://thumbs.gfycat.com/FantasticMadHorsefly-size_restricted.gif"  group-title="IP",ALJAZEERA (TW)
+http://ip2121.com:8081/live/aljazeera/playlist.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://pbs.twimg.com/profile_images/1483044581428056066/oohjMmO9_400x400.jpg"  group-title="IP",DISCOVERY (TW)
+http://ip2121.com:8081/live/discovery/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="DY365 (IN)" tvg-logo="https://dy365.in/images/logo.png" group-title="SMART-STREAM",DY 365 (IN)
+http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
+#EXTINF:-1 tvg-id="NORTH EAST LIVE (IN)" tvg-logo="https://northeastlivetv.com/wp-content/uploads/2018/11/ne_live_logo_black_tag.png"   group-title="SMART-STREAM",NORTH EAST LIVE (IN)
+https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="A1 TV (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/A1tv-in.png"  group-title="SMART-STREAM",A1 TV (IN)
+http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV 100 (IN)" tvg-logo="https://jiotvweb.cdn.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_100.png"  group-title="SMART-STREAM",TV 100 (IN)
+http://cdn.smartstream.video/smartstream-us/tv100/tv100/chunklist.m3u8
+#EXTINF:-1 tvg-id="NEWS 11 (IN)" tvg-logo="https://jiotvweb.cdn.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News11.png"  group-title="SMART-STREAM",NEWS 11 (IN)
+http://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
+#EXTINF:-1 tvg-id="JONAK (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Jonack.png" group-title="SMART-STREAM",JONAK (IN)
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-id="NK TV (IN)" tvg-logo="https://www.nktv.in/wp-content/uploads/2021/10/NKtv_Logo_200x102-removebg-preview.png"   group-title="SMART-STREAM",NK TV (IN)
+https://rtmp.smartstream.video/nktvlive/nktvlive/chunklist.m3u8
+#EXTINF:-1 tvg-id="SUDARSHAN NEWS (IN)" tvg-logo="https://jiotvweb.cdn.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png"  group-title="SMART-STREAM",SUDARSHAN NEWS (IN)
+https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist.m3u8
+#EXTINF:-1 tvg-id="CHANNEL WIN (IN)" tvg-logo="https://standwithdignity.org/wp-content/uploads/2016/09/CHANNEL-WIN-LOGO-1-1-300x182.png"   group-title="SMART-STREAM",CHANNEL WIN (IN)
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-id="MHONE SHRADHA (IN)" tvg-logo="https://shraddha.mhone.in/wp-content/uploads/2021/12/SHRADDHA-mhone-vishwas-aapka-Small.png"  group-title="SMART-STREAM",MHONE SHRADHA (IN)
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+#EXTINF:-1 tvg-id="MHONE NEWS (IN)" tvg-logo="http://mhone.in/wp-content/uploads/2021/12/MH-ONE-LOGO.png"  group-title="SMART-STREAM",MHONE NEWS (IN)
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:-1 tvg-id="PRATIDIN TIME (IN)" tvg-logo="https://gumlet.assettype.com/pratidintime/2021-12/9b4eadf2-dd1f-4c79-b5c5-ce0e0ef00610/PT_footer_logo.png"  group-title="SMART-STREAM",PRATIDIN TIME (IN)
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/News_Live.png"  group-title="SMART-STREAM",NEWS LIVE (IN)
+https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/playlist.m3u8
+ 
+
+#EXTINF:-1 tvg-id="LOCAL NOW PG" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/Local-Now-PG-Flix.jpg"  group-title="LOCAL-NOW",LOCAL NOW PG (US)
+https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LOCAL NOW 20" tvg-logo="https://www.youi.tv/wp-content/uploads/2018/07/local-now_logo-white.png"  group-title="LOCAL-NOW",LOCAL NOW 20 (US)
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LOCAL NOW ADRENALINE RUSH" tvg-logo="https://i.ytimg.com/vi/CSW6FaXlk-U/hqdefault.jpg"  group-title="LOCAL-NOW",LOCAL NOW ADRENALINE RUSH (US)
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="INSIGHT TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/1251164850278985733/czPfgXiI_400x400.jpg"  group-title="AMAGI-TV",INSIGHT TV (US)
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YOUNG HOLLYWOOD (US)" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22823/young-hollywood/logo_20200330_221710.png"  group-title="AMAGI-TV",YOUNG HOLLYWOOD (US)
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YAHOO FINANCE (US)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh9MB1CZd991750JrUs4YG_1RmHWQGVZFHJmI_pqrtD0p4zXJElbIYt56BaJ4c1RHDw43oBD1iy1oe29nYZzRL0j6A0GAdA1XKCG8_QG7bL64aNResleD44xv_CBQD-8UWV6XN8NlyhsxUm8nP5pu_gZ6gKLco5DLSjUkUZyF49Z-qmZztsytGIo_hJ"  group-title="AMAGI-TV",YAHOO FINANCE (US)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HNCFREE (US)" tvg-logo="https://www.tophorse.com.au/images/ResizedImages/25-8-16-376462Image2_w200h600.jpg"  group-title="AMAGI-TV",HNCFREE (US)
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TENNIS CHANNEL (US)" tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png"   group-title="AMAGI-TV",TENNIS CHANNEL (US)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITE (DE)" tvg-logo="https://xite.nl/img/xite_logo.png"  group-title="AMAGI-TV",XITE (DE)
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CLUBBING TV (US)" tvg-logo="https://clubbingtv.com/wp-content/uploads/2020/03/28871077_10156228412558762_7217888941192511488_n.jpg"   group-title="AMAGI-TV",CLUBBINGTV (US)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CRACKLE (US)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjm3Nj9qgZS9tCp_LL18dz0dODwaNJRZiWcAqSnwR7caZry3k_4gAoJ-uhQfB-6Db_dI0rMfKoPDDE9uLJZMDjS7wUYJz4v3RWwsKl7K9GXdWu8rGbctfqWq6Z9HLty4gHgxVx5CYyeanifoxfhSKNBQcIvUfe_YZ3sQNdkPhZQGwk5brOv1u7L7oHh"  group-title="AMAGI-TV",CRACKLE (US)
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MYTIME (US)" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png"  group-title="AMAGI-TV",MYTIME (US)
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MOVIESPHEREUK (US)" tvg-logo="https://pbs.twimg.com/profile_images/1220039944174878721/-E50IOP__400x400.jpg"  group-title="AMAGI-TV",MOVIESPHEREUK (US)
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AMMORUNTIME (US)" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2022/01/28/61e4f4846faea-384x384.png"  group-title="AMAGI-TV",AMMORUNTIME (US)
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SPORTSGRID (US)" tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png"  group-title="AMAGI-TV",SPORTSGRID (US)
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LOVE NATURE (US)" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2018/09/love_nature_logo_white_rgb.png"  group-title="AMAGI-TV",LOVE NATURE (US)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LEGO (US)" tvg-logo="https://media.designrush.com/inspirations/129839/conversions/_1611238414_61_lego-logo-1-preview.jpg"  group-title="AMAGI-TV",LEGO (US)
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="SMITH SONIANA CHANNEL (US)" tvg-logo="https://dreamdth.com/wp-content/uploads/2021/02/Smithsonian-Channel-Logo.png"   group-title="AMAGI-TV",SMIT SONIANA CHANNEL (US)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PAC12 (US)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/pac12_network.png"  group-title="AMAGI-TV",PAC12 (US)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BRAT TV (US)" tvg-logo="https://deadline.com/wp-content/uploads/2021/09/Brat-TV.png"  group-title="AMAGI-TV",BRAT TV (US)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TASTE MADE (US)" tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/05/01/tastemade-logo-600_lKOgSRW.jpg"  group-title="AMAGI-TV",TASTE MADE (US)
+https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IN WILD" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/InWild_1000x1000_Circle.png"   group-title="AMAGI-TV",IN WILD (AU)
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IN TROUBLE" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png"  group-title="AMAGI-TV",IN TROUBLE (IN)
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGE SPORTS" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5f6f52de1d058032c88afd13/1601131233440/EDGEsport+Dark.png"  group-title="AMAGI-TV",EDGE SPORTS (UK)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+ 
 
 
 
