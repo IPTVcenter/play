@@ -57,6 +57,144 @@ https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
 #EXTINF:-1 tvg-id="THE TITANIC CHANNEL" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png"  group-title="DISTRO-TV",THE TITANIC CHANNEL (US)
 https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/c.m3u8
 
+#EXTINF:-1 tvg-id="INSIGHT TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21GnRa4PI-L.png"  group-title="STIRR-TV",INSIGHT TV (US)
+https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
+#EXTINF:-1 tvg-id="CINE LIFE" tvg-logo="https://a.jsrdn.com/hls/22933/cinelife/thumbh_20210226_000928.jpg"  group-title="STIRR-TV",CINE LIFE (US)
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+#EXTINF:-1 tvg-id="COMET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png"  group-title="STIRR-TV",COMET (US)
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-id="CBSN" tvg-logo="https://crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png"  group-title="STIRR-TV",CBSN (US)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-id="LAW&CRIME" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51NbzXezlVL.png"  group-title="STIRR-TV",LAW&CRIME (US)
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 tvg-id="CON TV" tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png"  group-title="STIRR-TV",CON TV (US)
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+#EXTINF:-1 tvg-id="DOVE CHANNEL" tvg-logo="https://www.dovechannel.com/static/media/dove_logo.53946575.png"  group-title="STIRR-TV",DOVE CHANNEL (US)
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1 tvg-id="POPSTAR! TV" tvg-logo="https://image.roku.com/developer_channels/prod/8c4f676e367ef2b797aab0177ca30ddba58c5aec327cc95377d07c4d87c076bd.png"  group-title="STIRR-TV",POPSTAR! TV (US)
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+#EXTINF:-1 tvg-id="LIVE X LIVE" tvg-logo="https://www.livexlive.com/images/logos/lxl-logo-splash.png"  group-title="STIRR-TV",LIVE X LIVE (US)
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 tvg-id="TBD" tvg-logo="https://image.roku.com/developer_channels/prod/e575623dcddc5a0a30c6a9f0ec8b129069ca25bf3bc74a6c8d44d7bc0844d7cd.png"  group-title="STIRR-TV",TBD (US)
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:-1 tvg-id="MOVIE FONE TV" tvg-logo="https://d2j1wkp1bavyfs.cloudfront.net/legacy/assets/made-in-hollywood-head-v2.jpg"  group-title="STIRR-TV",MOVIE FONE TV (US)
+https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
+#EXTINF:-1 tvg-id="MST3K" tvg-logo="https://i0.wp.com/mst3klive.com/wp-content/uploads/2021/06/timetravelmst3klogo-comp.png"  group-title="STIRR-TV",MST3K (US)
+https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
+#EXTINF:-1 tvg-id="THE FILM DETECTIVE" tvg-logo="https://static.wixstatic.com/media/2d47fc_b4717dec1ba147f6b29a115f4e72a5c9~mv2_d_2411_1447_s_2.png"   group-title="STIRR-TV",THE FILM DETECTIVE (US)
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-id="MAVTV" tvg-logo="https://www.mavtv.com/site/assets/images/mavtv-motorsports-network-1200x630.jpg"  group-title="STIRR-TV",MAVTV (US)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-id="CBSN" tvg-logo="https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2019/09/60h-LA-white-stacked.png"  group-title="STIRR-TV",CBSN (US)
+http://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:-1 tvg-id="BUZZER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/NewBUZZRLogo2021.png"  group-title="STIRR-TV",BUZZER (US)
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+#EXTINF:-1 tvg-id="OUTSIDE" tvg-logo="https://www.outsidetv.com/img/otv/hls_header.png"  group-title="STIRR-TV",OUTSIDE (US)
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+#EXTINF:-1 tvg-id="CHARGE!" tvg-logo="https://watchcharge.s3.amazonaws.com/uploads/2020/03/Charge_White.png"  group-title="STIRR-TV",CHARGE! (US)
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+#EXTINF:-1 tvg-id="FUTURISM" tvg-logo="https://image.roku.com/developer_channels/prod/efb8164c71ded675f94d78d35365addd4410f601f0a7a72bff7bdc2e58725cdf.png"  group-title="STIRR-TV",FUTURISM (US)
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+#EXTINF:-1 tvg-id="PEOPLE" tvg-logo="https://image.roku.com/developer_channels/prod/a4e9c44a7164ad5e06bcd026aea372fdfe6c6aa6d636e9c82c32962668d5c08d.png"  group-title="STIRR-TV",PEOPLE (US)
+https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
+#EXTINF:-1 tvg-id="WINK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/WINK-TV_logo_2017.png"  group-title="STIRR-TV",WINK TV (US)
+https://dai.google.com/linear/hls/event/RDMOOz10SfKAEdQ_ovgcUA/master.m3u8
+#EXTINF:-1 tvg-id="SHOUT TV" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/6a/6a/d86a6ab4-42a5-997f-4deb-20ca5a2aeb1f/App_Icon_-_Small-marketing.lsr/1024x1024bb.jpg"  group-title="STIRR-TV",SHOUT TV (US)
+https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
+#EXTINF:-1 tvg-id="OUTDOOR AMERICA" tvg-logo="https://image.roku.com/developer_channels/prod/e1abd2e3ea0aa5fc1d5dcccc160706e65849465b0be9de655551bdf2d2333fdc.png"  group-title="STIRR-TV",OUTDOOR AMERICA (US)
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png"  group-title="STIRR-TV",NDTV 24x7 (IN)
+http://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
+#EXTINF:-1 tvg-id="THE BOB ROSS CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/110b229663a135a0abf87413c41f22f1f12c8cef7c1fc752e4fb572d71476693.png"  group-title="STIRR-TV",THE BOB ROSS CHANNEL (US)
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+
+#EXTINF:-1 tvg-id="SO YUMMY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhrCs_fI1UnQ45pdMAu36CCDDzYmcATQRECqW3xct6mhrr9pZSm1bnMVviwJE4WdYeJGAq19U9cPcNyx-AdtWUESHJ_mW2PHjP3Jp__CiaMyfjABOvHdFgVuf9HYKf-RktBCe9eFIZwqTA6kahu8fw_F_-aLruFeZDa4Ut1U09hy5V_UddLI6moCzyuZA=s200"  group-title="XUMO-TV",SO YUMMY (US)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="REELZ" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiV3Mi_Td9sEimGpX_dbSyPGemj80eBdOe9cWw0UxcGn3AHJJwxQR3Mb4X77CMOyf5OjHIZSmLjbLYPpUzCuCgbCh4Mck2N9v4z5PCSPfeS5D_DPwoH-l9bgMHOC7GpF3tP9UHMDU4PdoFLI_T5_ukaJeNjBCAK43Q5tY0JHwgVQFiwE4o1s04GbePlCw=s200"  group-title="XUMO-TV",REELZ (US)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="PLYERS TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg3i0AGLnjO_AEPkobUgbGtsbnxTLrykQMYD8M6VsJiQrOB2mkPvXoG14LthZjaBmQv0cN4GSEMCU5_NgkFHJQZ5RQpi9FDbxL1WyA-UYMAQpEcbuYn5aGGYSjx5jwpsUtbY6FHFAafuiv_IaFFu7NniAfGthkQma9K-JYl4aEfCV8fktmEhfrYAiFHDQ=s200"  group-title="XUMO-TV",PLAYERZ TV (US)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+#EXTINF:-1 tvg-id="LAW & CRIME NETWORK" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjGoXlpCckjsNCa0pPTNqoJoFo5vBnE9WS6HvGXg1mylcs3ow7YpjEa0ZUtUBtiXew3_hhJXfviS61GLpWbMivC8X0PoZLSvpBUCzbMqDM8wgPuCcW7H4GafV4kklQXXwNCIqyfVLciKneQGVl1UZruDEM0d-u_AmWWCgHhgNOB-XGKd0FXc33awkuxTA=s200"  group-title="XUMO-TV",LAW & CRIME NETWORK (US)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="STADIUM" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinn-LVWXfMz2wuVaYok20gNZELm-pv9F4bNc9XQYyUKMpqIm1XsbkNztAHvddKR96tjATJUDauqnTWpa8JQlr7eoMHe1Wn5c00XH1oQyjBNF8ZwdXlRGE6M0EGE2nzKb7JShhz6CaBNrNXAKej-8KOiMAz-UZN66Q5RYlZgyIBc3LckaV6zWQqBTSTaw=s200"  group-title="XUMO-TV",STADIUM (US)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1 tvg-id="TMZ" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgNV_dL6laFKt9UCl-md3XSdkUl2Wl26ABysanogCYP6KyujvSj603n1Pav79PG5etoo1quD8X5mg9crdUtAztZWipJY_FGtG1AW4OYigOQT-oU7OvgAzssR-5ta-PvysaX41ujgiB8MJGB17STwjj03KHmYtySvsz2sL0VfTsXHP7tIdrj7JhKDOoNVA=s200"  group-title="XUMO-TV",TMZ (US)
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="RAINBOW RUBY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0R9YcDHYR4R1QQCDAi0RB2OckPiAAJtDnC0-vAoeReeL8U6afXNG4y--JtWuO2wnl0FO1cpqHneID2gPRMvaovUDHlj_L9xEi_bLqHZQckI7DYpJhjdFiTVxKm7P_o5rahbLg6jMy4r4nduoYuFoELYAWQ5hP6A-EK-IwsXSF3b6u3Yp3NOxjS_pyhg=s200"  group-title="XUMO-TV",RAINBOW RUBY (US)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CON TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhuHq63dOfZSiHisyxMDZBKLfqSum1DHqoP0eDupuERR93uV1i2wXTxDQwm8R6orWufWRTw3dKLWvr9j91ilm7RdXBnKGwVVp61Ui4pVlm07ebr8Tk2BwnSPiGnd52hTEvx-pu1uNtUlPfkRGFeNskwMSFLcPjdnlOBqC-ShPKkaYpim9q9RBuMLAM8Hg=s200"  group-title="XUMO-TV",CON TV (US)
+https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="XUMO-TV", (US)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
