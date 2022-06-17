@@ -673,6 +673,90 @@ https://epiconvh.s.llnwi.net/epic/master.m3u8
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
 
+#EXTINF:-1 tvg-id="INSIGHT TV (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1251164850278985733/czPfgXiI_400x400.jpg"  group-title="MX-TV",INSIGHT TV (IN)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-mxplayer/playlist.m3u8?app_bundle=com.innovation.mxplayer_8064.InsightTV.in&app_name=MXPlayer&app_store_url=https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&genre=GD&coppa=Kids&iab=IAB1-7
+#EXTINF:-1 tvg-id="FILMY (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/1200px-Sahara-filmi-tv-logo.svg.png"  group-title="MX-TV",FILMY (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+#EXTINF:-1 tvg-id="FIRANGI (IN)" tvg-logo="https://1.bp.blogspot.com/-afq8mSGUMdc/Ub78RIyBLrI/AAAAAAAAHdo/7rEiji_EeoM/w640/firangi.jpg"  group-title="MX-TV",FIRANGI (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
+#EXTINF:-1 tvg-id="BIXFLIX MOVIES (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg"  group-title="MX-TV",BIXFLIX MOVIES (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-id="MANORANJAN MOVIES (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg"  group-title="MX-TV",MANORANJAN MOVIES (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 tvg-id="MAHA MOVIE (IN)" tvg-logo="https://dishnews.in/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-01-at-4.43.02-PM-300x169.jpeg"  group-title="MX-TV",MAHA MOVIE (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Movie-Plus.png"  group-title="MX-TV",MOVIE PLUS (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+#EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-250/list/1170x658withlogo_436360213.jpg"   group-title="MX-TV",DD NATIONAL (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1 tvg-id="MASTIII (IN)" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png"  group-title="MX-TV",MASTIII (IN)
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
+#EXTINF:-1 tvg-id="B4U MUSIC (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="MX-TV",B4U MUSIC (IN)
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+#EXTINF:-1 tvg-id="NEWS NATION (IN)" tvg-logo="https://heartbeatsz.com/wp-content/uploads/2021/01/news12.png"  group-title="MX-TV",NEWS NATION (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
+#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-logo="https://ixceed-solutions.co.uk/wp-content/uploads/2021/05/indiatv.png"  group-title="MX-TV",INDIA TV (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
+#EXTINF:-1 tvg-id="DD ASSAM (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/DD_Assam_logo.jpeg"   group-title="MX-TV",DD ASSAM (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
+#EXTINF:-1 tvg-id="DD KASHIR (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/DD_Kashir.jpg"  group-title="MX-TV",DD KASHIR (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8
+#EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9x-jalwa-black.png"  group-title="MX-TV",9X JALWA (IN)
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
+#EXTINF:-1 tvg-id="9XM (IN)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"   group-title="MX-TV",9XM (IN)
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+#EXTINF:-1 tvg-id="GULISTAN NEWS (IN)" tvg-logo="https://gulistannews.in/wp-content/uploads/2019/08/logo.jpeg"  group-title="MX-TV",GULISTAN NEWS (IN)
+https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
+#EXTINF:-1 tvg-id="NEWS X (IN)" tvg-logo="https://www.newsx.com/wp-content/themes/newsxlite/images/newsx.png"  group-title="MX-TV",NEWS X (IN)
+https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
+#EXTINF:-1 tvg-id="NEWS INDIA (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/India_News.png"  group-title="MX-TV",NEWS INDIA (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 tvg-id="JANATA TV (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Janta_TV.jpeg"  group-title="MX-TV",JANATA TV (IN)
+https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
+#EXTINF:-1 tvg-id="SAMAY (IN)" tvg-logo="https://sites.google.com/site/livehinditvchannels/_/rsrc/1542286073409/samay-tv-live/samay%20live.jpg"  group-title="MX-TV",SAMAY (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
+#EXTINF:-1 tvg-id="A1 TV (IN)" tvg-logo="https://www.a1live.in/images/logo.png"  group-title="MX-TV",A1 TV (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in.m3u8
+#EXTINF:-1 tvg-id="IBC 24 (IN)" tvg-logo="https://www.ibc24.in/wp-content/uploads/2021/07/ibc24-logo-big-one.png"  group-title="MX-TV",IBC 24 (IN)
+https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
+#EXTINF:-1 tvg-id="CVR NEWS (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/CVR_English.jpg"  group-title="MX-TV",CVR NEWS (IN)
+https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
+#EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-313/list/1170x658withlogo_142056468.jpg"  group-title="MX-TV",SADHNA PLUS (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
+#EXTINF:-1 tvg-id="K NEWS 24X7 (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1114818982840655873/pwZ3lNtV_400x400.png"  group-title="MX-TV",K NEWS 24X7 (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
+#EXTINF:-1 tvg-id="HINDI KHABAR (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1399076447763918848/4S3ugogU_400x400.jpg"  group-title="MX-TV",HINDI KHABAR (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
+#EXTINF:-1 tvg-id="DD INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/DD_India_logo.jpg/640px-DD_India_logo.jpg"  group-title="MX-TV",DD INDIA (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
+#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-logo="https://foodfood.b-cdn.net/assets/images/logo/logo.png"  group-title="MX-TV",FOOD FOOD (IN)
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
+#EXTINF:-1 tvg-id="DW (IN)" tvg-logo="https://static.dw.com/image/52015610_101.png"  group-title="MX-TV",DW (IN)
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1 tvg-id="FRANCE 24 (ASIA)" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png"  group-title="MX-TV",FRANCE 24 (ASIA)
+https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
+#EXTINF:-1 tvg-id="EURO NEWS (UK)" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/logo_20201208_214101_68.png"  group-title="MX-TV",EURO NEWS (UK)
+https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
+#EXTINF:-1 tvg-id="ISHWAR TV (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/8dNO8Gde.png"  group-title="MX-TV",ISHWAR TV (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
+#EXTINF:-1 tvg-id="SHEMAROO TV (IN)" tvg-logo="https://1.bp.blogspot.com/-y05BCpB8VSg/XqVv_5kQoPI/AAAAAAAAs_A/QE92QkRki9A8-3qDNmmR0S73fT19WTNtgCK4BGAsYHg/w1200-h630-p-k-no-nu/shemaroo-tv-hindi-entertainment-tv-channel-on-dd-freedish-min.jpg"  group-title="MX-TV",SHEMAROO TV (IN)
+https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
+#EXTINF:-1 tvg-id="CHANNEL WIN (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jk6lvnn4.png"  group-title="MX-TV",CHANNEL WIN (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8
+#EXTINF:-1 tvg-id="JAN TV (IN)" tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg"  group-title="MX-TV",JAN TV (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/7078.JanTV.in.m3u8
+#EXTINF:-1 tvg-id="ABZY MOVIES (IN)" tvg-logo="https://abzy.com/wp-content/uploads/2021/07/Abzy-Movies-200x90.png"  group-title="MX-TV",ABZY MOVIES (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
+#EXTINF:-1 tvg-id="ABZY DHAKAD (IN)" tvg-logo="https://logos.iphawk.com/in/4239830.jpg"  group-title="MX-TV",ABZY DHAKAD (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8
+#EXTINF:-1 tvg-id="ABZY COOL (IN)" tvg-logo="https://abzy.com/wp-content/uploads/2021/07/Abzy-Cool-200x90.png"  group-title="MX-TV",ABZY COOL (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8
+#EXTINF:-1 tvg-id="AZAAD TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Azaad_TV_Logo.png"  group-title="MX-TV",AZAAD TV (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8
+#EXTINF:-1 tvg-id="SADHNA NATIONAL (IN)" tvg-logo="https://i.ytimg.com/vi/zKGzukWZKCU/maxresdefault.jpg"  group-title="MX-TV",SADHNA NATIONAL (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8076.SuperTv.in.m3u8
+#EXTINF:-1 tvg-id="TIMES NOW NAVBHARAT (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BhqEkV8c.png"  group-title="MX-TV",TIMES NOW NAVBHARAT (IN)
+https://m-c04-j2apps.s.llnwi.net/hls/8075.timesnownavbharat.in.m3u8
 
 
 
