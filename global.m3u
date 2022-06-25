@@ -294,6 +294,10 @@ https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-id="CITY NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/City_News_HD_Logo.png"  group-title="ONLINE-TV",CITY NEWS HD (PK)
 http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="AL FAJER TV HD 2" tvg-logo="http://tvtolive.com/wp-content/uploads/Al-Fajer-TV-tvtolive.com_.jpg"  group-title="ONLINE-TV",AL FAJER TV HD (ME)
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="JOO MUSIC" tvg-logo="https://www.joomusic.info/assets/images/logo.png"   group-title="NET-TV",JOO MUSIC (IN)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="DD VYAS (IN)" tvg-logo="https://webcast.gov.in/images/nic_logo_full.gif"  group-title="MEDIA-TV",DD VYAS (IN)
@@ -550,8 +554,6 @@ https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
 https://video.fjrh1-1.fna.fbcdn.net/v/t42.1790-2/263831824_1432060057208802_1299930053134895267_n.mp4?_nc_cat=101&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjMwMCwicmxhIjo1NDgsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_ohc=h-VzhrgVrQ4AX9QbAqx&rl=300&vabr=165&_nc_ht=video.fjrh1-1.fna&edm=AItmks8EAAAA&oh=03909bfa0c5614e10232105e15f2d338&oe=61B16FC0
 #EXTINF:-1 tvg-id="RUNWAY TV" tvg-logo="http://www.runwaylive.com/wp-content/uploads/2016/06/runway-tv-bug-1.jpg"   group-title="NET-TV",RUNWAY TV (UK)
 https://vse-as-all25.secdn.net/runway-origin/live/runway/chunklist.m3u8
-#EXTINF:-1 tvg-id="JOO MUSIC" tvg-logo="https://www.joomusic.info/assets/images/logo.png"   group-title="NET-TV",JOO MUSIC (IN)
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OM SHANTI" tvg-logo="http://www.omshantitv.org/wp-content/uploads/2018/09/Om-Shanti-Channel-1024x683.png"   group-title="NET-TV",OM SHANTI (IN)
 http://webcastcdnbkwsu.b-cdn.net/live/godlywood/index.m3u8?uid=5935850
  
@@ -956,9 +958,8 @@ http://54.36.123.36:8080/PinkErotic7/index.m3u8
 http://54.36.123.36:8080/PinkErotic8/index.m3u8
 
 
-#EXTINF:-1 tvg-id="PASSION XXX" tvg-logo="https://www.passionxxx.com/whitelabel/passion/images/logo_en.png"  group-title="OVSO",PASSION XXX (UK)
-http://95.87.227.29:8080/PASSIONXXX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="OVSO", (UK)
+#EXTINF:-1 tvg-id="XYMAX" tvg-logo="https://invivo.tv/invivo/images/slider/xy_max.png"  group-title="INVIVO-TV",XYMAX (UK)
+http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
 
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DdrIzhgL.png"  group-title="STREAM",COLORS (IN)
@@ -1077,8 +1078,8 @@ http://195.154.185.179:80/xx_nuart_tv/index.m3u8
 http://195.154.185.179:80/xx_brazzers_tv/index.m3u8
 #EXTINF:-1 tvg-id="PLAYBOY TV" tvg-logo="https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png"  group-title="XX",PLAYBOY TV (UK)
 http://195.154.185.179:80/xx_playboy_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="XX",  (UK)
-
+#EXTINF:-1 tvg-id="XMO" tvg-logo="https://xmo.tv/wp-content/uploads/2019/09/x_mo_logo-01-2.png"  group-title="XX",XMO (NL)
+http://195.154.185.179:80/xx_fashion_tv/video.m3u8
 
 #EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wCcSjiw5.png"  group-title="STREAM",SONY TEN 3 HD (IN)
 http://208.86.19.13:81/713.stream/index.m3u8
@@ -1169,7 +1170,8 @@ http://221.120.204.4/GTV-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 http://221.120.204.4/LAHORE-RANG-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="PTV SPORTS (PK)" tvg-logo="https://gifincric.com/images/2019/12/PTV_Sports.png"  group-title="LOCKLE",PTV SPORTS (PK)
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
- 
+#EXTINF:-1 tvg-id="ROMEDY NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Romedy_Now_2019_Black.jpg"  group-title="LOCKLE",ROMEDY NOW (IN)
+http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
  
 #EXTINF:-1 tvg-id="HORNBILL TV (IN)" tvg-logo="http://www.hornbilltv.com/IMAGES/logo.png"  group-title="DIGITAL-TV",HORNBILL TV (IN)
 http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
